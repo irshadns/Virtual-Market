@@ -1,0 +1,11 @@
+S.No	ITEM		PRICE
+1.	Heating_pad	250
+2.	Tissue		40
+3.	Tablet		20
+4.	Nebulizer	150
+5.	Thermometer	100
+6.	Bandage		50
+7.	Cannula		90
+8.	Syringe		80
+9.	Masks		40
+10.	Syrup		120
